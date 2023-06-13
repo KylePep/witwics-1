@@ -4,6 +4,8 @@
 // Ex: ('Cryptology', 3) should return 'p'
 function letterAtPosition(str, position) {
   // TODO YOUR CODE HERE
+  let word = str
+  return word[position]
 }
 
 
